@@ -4,7 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonwonki&show_icons=true&theme=github_dark)
 
-<a href="moonwonki.github.io" target="_blank"><img src="https://img.shields.io/badge/181717-E2E2E2?style=for-the-badge&logo=Blog&logoColor=1F1E1E"/></a>
+
+
+
 <!--
 **moonwonki/moonwonki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
